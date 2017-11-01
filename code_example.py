@@ -2,7 +2,7 @@
 This file includes the logic to extract a QRCode from an image. 
 I chose this file is mainly because the format is relatively clean and all functions are well-commented.
 I'm very strict on variable and function naming, so I basically will not make confusing names on them. 
-And I will try my best to fit the convention and the style that any team or company sets.
+And I will try my best to fit the convention and the coding style that any team or company sets.
 
 '''
 
